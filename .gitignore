@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies / build (uncomment as your project grows)
+# node_modules/
+# dist/
+# build/
