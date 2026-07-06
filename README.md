@@ -8,11 +8,11 @@ Builder of software and systems. This is my portfolio — a running showcase of 
 
 - **Software engineering** — designing and building products end to end.
 - **Systems & tooling** — turning messy real-world problems into clean, reliable software.
-- _(edit this list to match how you want to be seen)_
+
 
 ## 🛠️ Skills
 
-`Add your stack here` — e.g. TypeScript · React · Python · .NET · SQL · Docker
+ — e.g. TypeScript · React · Python · .NET · SQL · Docker
 
 ## 📌 Featured projects
 
@@ -30,4 +30,4 @@ Builder of software and systems. This is my portfolio — a running showcase of 
 
 ---
 
-<sub>This README is a starting point — edit freely.</sub>
+
